@@ -1,0 +1,9 @@
+# Shared library repo-local ignores
+.gradle/
+build/
+out/
+*.iml
+*.log
+.DS_Store
+.vscode/
+.idea/
